@@ -1,9 +1,9 @@
 <h1 align="center">Greetings</h1>
 
 <p align="center">
-  <span style="font-size: 18px; font-weight: 600">My name is Jason and I'm from Bay City, Michigan where I work as a Chief Executive Officer at Novus.One Inc., a company I formed to create a security and privacy focused free speech platform that's embedded within the Ethereum blockchain.</span>
+  <span style="font-size: 18px; font-weight: 600">My name is Jason. I'm from Bay City, Michigan where I work as a Chief Executive Officer at Novus.One Inc., a company I formed to create a security and privacy focused free speech platform that's embedded within the Ethereum blockchain.</span>
 </p>
-
+<hr />
 ##### Find me elsewhere:
 
 - Speaking freely at [Novus.One - @SevenPlusSix](https://novus.one/SevenPlusSix)
